@@ -1,0 +1,13 @@
+# Criando Icone no Ubuntu
+# Icone.desktop
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=NomeDoIcone
+Exec=ComandoOuProgramaQueSeraExecutado
+Icon=/caminho/do/arquivo
+Path=/usr/bin/
+Terminal=false
+Comment=
+Type=Application
+GenericName=
